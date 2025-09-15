@@ -2,7 +2,7 @@
 
 
 
-\## 🚀 Project Goal
+\## Project Goal
 
 
 
