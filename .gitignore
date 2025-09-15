@@ -1,0 +1,50 @@
+# ------------------------
+# Python cache ve derleme dosyaları
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ------------------------
+# Sanal ortam
+# ------------------------
+venv/
+.env/
+
+# ------------------------
+# Jupyter notebook
+# ------------------------
+.ipynb_checkpoints/
+
+# ------------------------
+# Veri dosyaları (büyük veya hassas)
+# ------------------------
+data/raw/
+data/processed/
+data/external/
+
+# ------------------------
+# Çıktılar / modeller / görseller
+# ------------------------
+outputs/models/
+outputs/figures/
+
+# ------------------------
+# IDE ve editör ayarları
+# ------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+# Log dosyaları
+# ------------------------
+*.log
+
+# ------------------------
+# Sistem dosyaları
+# ------------------------
+.DS_Store
+Thumbs.db
