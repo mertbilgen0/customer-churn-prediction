@@ -17,18 +17,6 @@ venv/
 # ------------------------
 .ipynb_checkpoints/
 
-# ------------------------
-# Veri dosyaları (büyük veya hassas)
-# ------------------------
-data/raw/
-data/processed/
-data/external/
-
-# ------------------------
-# Çıktılar / modeller / görseller
-# ------------------------
-outputs/models/
-outputs/figures/
 
 # ------------------------
 # IDE ve editör ayarları
