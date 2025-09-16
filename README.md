@@ -1,8 +1,3 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction – Telco Dataset
 
-## Project Goal
-
-This project is designed to help me **develop my skills in data science and machine learning**, by applying newly learned techniques on **real-world data** and observing the results. The focus is on predicting **which customers are likely to churn** from a subscription-based business, allowing me to practice end-to-end data science workflows.
-
-The main objective is to **reinforce my learning** through practical application, from data preprocessing to feature engineering, modeling, and model evaluation.
-
+Working on a machine learning project to predict customer churn using the Telco Customer Churn dataset. The goal is to apply end-to-end data science techniques including data preprocessing, exploratory data analysis, feature engineering, model development, and evaluation.
